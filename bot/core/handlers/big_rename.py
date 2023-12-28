@@ -172,7 +172,7 @@ async def handle_big_rename(
     if (not _db_caption) and (apply_caption is True):
         caption = m.reply_to_message.caption.markdown \
             if m.reply_to_message.caption \
-            else "**𝙲𝚁𝙴𝙳𝙸𝚃𝚂 : @OpusTechz**"
+            else "**𝙲𝚁𝙴𝙳𝙸𝚃𝚂 : @AM_FILMS**"
     elif _db_caption and (apply_caption is True):
         caption = _db_caption
     else:
