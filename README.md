@@ -31,7 +31,7 @@ Easy to Deploy to Heroku.
 
 Press Below Button to Deploy!
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Guardianff/OP-Rename-Bot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Guardianff/Adi-Rename-Bot)
 
 
 <b>𝗗𝗘𝗩𝗘𝗟𝗢𝗣𝗘𝗥 ›› [𝗚𝗨𝗔𝗥𝗗𝗜𝗔𝗡𝗳𝗳](https://telegram.dog/GUARDIANff) </b>                                                                                                                                                                                    
